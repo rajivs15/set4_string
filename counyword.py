@@ -1,0 +1,7 @@
+st=input()
+count=0
+for i in range (0,len(st)):
+	if st[i]==' ':
+		count=count+1
+a=count+1
+print (a)
