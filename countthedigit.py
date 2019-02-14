@@ -1,3 +1,4 @@
 n=int(input())
 a=str(n)
-print(len(a))
+z=len(a)+1
+print(z-1)
